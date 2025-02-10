@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Krutrim Task1</string>
+    <string name="button_text">Press Enter to Calculate</string>
+    <string name="editText_hint">Enter the perplexities in this space</string>
+</resources>
